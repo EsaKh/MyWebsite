@@ -20,7 +20,7 @@ body {
 }
 
 .screen {
-  width: 1000px;
+  width: 1400px;
   display: flex;
   border: 3px solid rgb(var(--primary-rgb)/80%);
   aspect-ratio: 2.18/1;
