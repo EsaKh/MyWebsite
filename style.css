@@ -24,7 +24,7 @@ body {
   height: 100%;
   display: flex;
   border: 3px solid rgb(var(--primary-rgb)/80%);
-  aspect-ratio: 100%;
+  aspect-ratio: 100%vw;
   border-radius: 1rem;
   background-color: rgb(var(--primary-rgb)/15%);
   overflow: hidden;
